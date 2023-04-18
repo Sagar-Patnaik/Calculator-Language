@@ -3,7 +3,7 @@ Stevens Login: spatnaik@stevens.edu and dakolu@stevens.edu
 
 Public GitHub Repo URL
 
-The URL of my public GitHub repo is: github.lala
+The URL of my public GitHub repo is: https://github.com/Sagar-Patnaik/Calculator-Language
 
 Hours Spent on the Project:
 I estimate that I spent around 50 hours on the project.
